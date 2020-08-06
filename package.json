@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "node-tailor": "^3.9.2"
+  }
+}
